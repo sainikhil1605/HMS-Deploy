@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/HMS/static/css/main.58e10dfe.chunk.css",
+    "main.js": "/HMS/static/js/main.2da5c580.chunk.js",
+    "main.js.map": "/HMS/static/js/main.2da5c580.chunk.js.map",
+    "runtime-main.js": "/HMS/static/js/runtime-main.f1259793.js",
+    "runtime-main.js.map": "/HMS/static/js/runtime-main.f1259793.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/HMS/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b989cf51.chunk.js": "/HMS/static/js/2.b989cf51.chunk.js",
+    "static/js/2.b989cf51.chunk.js.map": "/HMS/static/js/2.b989cf51.chunk.js.map",
+    "static/js/3.169f68a6.chunk.js": "/HMS/static/js/3.169f68a6.chunk.js",
+    "static/js/3.169f68a6.chunk.js.map": "/HMS/static/js/3.169f68a6.chunk.js.map",
+    "index.html": "/HMS/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/HMS/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.58e10dfe.chunk.css.map": "/HMS/static/css/main.58e10dfe.chunk.css.map",
+    "static/js/2.b989cf51.chunk.js.LICENSE.txt": "/HMS/static/js/2.b989cf51.chunk.js.LICENSE.txt",
+    "static/media/background.fdbb8524.svg": "/HMS/static/media/background.fdbb8524.svg",
+    "static/media/doctor_2.07d64672.jpg": "/HMS/static/media/doctor_2.07d64672.jpg",
+    "static/media/doctor_new.6dfbdc90.png": "/HMS/static/media/doctor_new.6dfbdc90.png",
+    "static/media/patient.d6de3e98.jpg": "/HMS/static/media/patient.d6de3e98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1259793.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b989cf51.chunk.js",
+    "static/css/main.58e10dfe.chunk.css",
+    "static/js/main.2da5c580.chunk.js"
+  ]
+}
